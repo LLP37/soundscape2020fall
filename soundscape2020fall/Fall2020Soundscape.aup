@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Fall2020Soundscape_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="0.0000000000" vpos="16" h="0.0000000000" zoom="46.6867469880" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Alarmclock-bleeps" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="556842">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f330.au" len="262144" min="-0.591278" max="0.583527" rms="0.122101"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1fa8a.au" len="147349" min="-0.637177" max="0.526062" rms="0.103731"/>
+				</waveblock>
+				<waveblock start="409493">
+					<simpleblockfile filename="eff1faef.au" len="147349" min="-0.615509" max="0.572479" rms="0.13321"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Alarmclock-bleeps" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="556842">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f0dd.au" len="262144" min="-0.591278" max="0.583527" rms="0.122101"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1ffa3.au" len="147349" min="-0.637177" max="0.526062" rms="0.103731"/>
+				</waveblock>
+				<waveblock start="409493">
+					<simpleblockfile filename="eff1f37c.au" len="147349" min="-0.615509" max="0.572479" rms="0.13321"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Drawers" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="615876">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f1a3.au" len="188466" min="-0.778578" max="0.870125" rms="0.026307"/>
+				</waveblock>
+				<waveblock start="188466">
+					<simpleblockfile filename="eff1ff1c.au" len="245142" min="-0.869945" max="0.659248" rms="0.020917"/>
+				</waveblock>
+				<waveblock start="433608">
+					<simpleblockfile filename="eff1f2a0.au" len="182268" min="-0.869986" max="0.673273" rms="0.026144"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
