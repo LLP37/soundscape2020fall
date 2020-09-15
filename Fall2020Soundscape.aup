@@ -1,42 +1,9 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="Fall2020Soundscape_data" version="1.3.0" audacityversion="2.4.2" sel0="202.1124101790" sel1="202.2132103807" vpos="336" h="192.7034200874" zoom="47.7313791101" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Fall2020Soundscape_data" version="1.3.0" audacityversion="2.4.2" sel0="239.7293555054" sel1="239.7293555054" vpos="592" h="236.7666123426" zoom="54.2263956601" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
-		<tag name="ALBUM" value="YouTube Audio Library"/>
-		<tag name="TITLE" value="Keyboard Typing Fast Close"/>
+		<tag name="TITLE" value="Siri Alarm Set"/>
 	</tags>
-	<wavetrack name="Alarmclock-bleeps" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="582592">
-				<waveblock start="0">
-					<simpleblockfile filename="eff1f864.au" len="262144" min="-0.591278" max="0.583527" rms="0.122101"/>
-				</waveblock>
-				<waveblock start="262144">
-					<simpleblockfile filename="eff1f811.au" len="160224" min="-0.637177" max="0.526062" rms="0.109181"/>
-				</waveblock>
-				<waveblock start="422368">
-					<simpleblockfile filename="eff1f4fa.au" len="160224" min="-0.615509" max="0.572479" rms="0.120234"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="Alarmclock-bleeps" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="582592">
-				<waveblock start="0">
-					<simpleblockfile filename="eff1fa87.au" len="262144" min="-0.591278" max="0.583527" rms="0.122101"/>
-				</waveblock>
-				<waveblock start="262144">
-					<simpleblockfile filename="eff1f714.au" len="160224" min="-0.637177" max="0.526062" rms="0.109181"/>
-				</waveblock>
-				<waveblock start="422368">
-					<simpleblockfile filename="eff1f18f.au" len="160224" min="-0.615509" max="0.572479" rms="0.120234"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
 	<wavetrack name="Zoom" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="166.17489796" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="251609">
@@ -87,7 +54,140 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Keyboard Typing Fast Close" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Conversation w-Delaney" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="205.04268884" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="621810">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1e49f.au" len="262144" min="-0.133219" max="0.193539" rms="0.022779"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1efc8.au" len="262144" min="-0.118771" max="0.160307" rms="0.017374"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1ed11.au" len="97522" min="-0.06804" max="0.060187" rms="0.007181"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Orbit" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="205.04268884" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1529682">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1e341.au" len="261615" min="-0.232578" max="0.254472" rms="0.031813"/>
+				</waveblock>
+				<waveblock start="261615">
+					<simpleblockfile filename="eff1e9f3.au" len="262144" min="-0.252378" max="0.252464" rms="0.039403"/>
+				</waveblock>
+				<waveblock start="523759">
+					<simpleblockfile filename="eff1e58d.au" len="262144" min="-0.501768" max="0.501805" rms="0.149405"/>
+				</waveblock>
+				<waveblock start="785903">
+					<simpleblockfile filename="eff1ebf2.au" len="262144" min="-0.501919" max="0.501574" rms="0.14464"/>
+				</waveblock>
+				<waveblock start="1048047">
+					<simpleblockfile filename="eff1eb00.au" len="262144" min="-0.501787" max="0.501491" rms="0.154551"/>
+				</waveblock>
+				<waveblock start="1310191">
+					<simpleblockfile filename="eff1e322.au" len="219491" min="-0.501332" max="0.501992" rms="0.124198"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Orbit" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="205.04268884" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1529682">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1e989.au" len="261615" min="-0.360943" max="0.288758" rms="0.04847"/>
+				</waveblock>
+				<waveblock start="261615">
+					<simpleblockfile filename="eff1e2c4.au" len="262144" min="-0.351797" max="0.355027" rms="0.051924"/>
+				</waveblock>
+				<waveblock start="523759">
+					<simpleblockfile filename="eff1e2da.au" len="262144" min="-0.501537" max="0.501464" rms="0.115361"/>
+				</waveblock>
+				<waveblock start="785903">
+					<simpleblockfile filename="eff1e60b.au" len="262144" min="-0.501702" max="0.502356" rms="0.114192"/>
+				</waveblock>
+				<waveblock start="1048047">
+					<simpleblockfile filename="eff1e798.au" len="262144" min="-0.501164" max="0.501439" rms="0.11596"/>
+				</waveblock>
+				<waveblock start="1310191">
+					<simpleblockfile filename="eff1e93e.au" len="219491" min="-0.480038" max="0.501523" rms="0.11124"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Siri Alarm Set" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="219.14268884" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="988160">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1eee5.au" len="262144" min="-0.193328" max="0.202463" rms="0.021534"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1e08f.au" len="262144" min="-0.019492" max="0.016663" rms="0.005127"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1e91f.au" len="262144" min="-0.236774" max="0.281669" rms="0.012742"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="eff1e52b.au" len="201728" min="-0.280837" max="0.213286" rms="0.012651"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Delaney Permission" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="239.72935551" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="348515">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1ecda.au" len="151264" min="-0.23787" max="0.637078" rms="0.04097"/>
+				</waveblock>
+				<waveblock start="151264">
+					<simpleblockfile filename="eff1e1dc.au" len="151265" min="-0.175925" max="0.196586" rms="0.036848"/>
+				</waveblock>
+				<waveblock start="302529">
+					<simpleblockfile filename="eff1ea94.au" len="45986" min="-0.123217" max="0.220954" rms="0.009471"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Alarmclock-bleeps" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="582592">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f864.au" len="262144" min="-0.591278" max="0.583527" rms="0.122101"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f811.au" len="160224" min="-0.637177" max="0.526062" rms="0.109181"/>
+				</waveblock>
+				<waveblock start="422368">
+					<simpleblockfile filename="eff1f4fa.au" len="160224" min="-0.615509" max="0.572479" rms="0.120234"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Alarmclock-bleeps" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="582592">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fa87.au" len="262144" min="-0.591278" max="0.583527" rms="0.122101"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f714.au" len="160224" min="-0.637177" max="0.526062" rms="0.109181"/>
+				</waveblock>
+				<waveblock start="422368">
+					<simpleblockfile filename="eff1f18f.au" len="160224" min="-0.615509" max="0.572479" rms="0.120234"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Keyboard Typing Fast Close" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="171.88031746" colorindex="0">
 			<sequence maxsamples="524288" sampleformat="131073" numsamples="144003">
 				<waveblock start="0">
@@ -121,7 +221,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Keyboard Typing Fast Close" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Keyboard Typing Fast Close" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="171.88031746" colorindex="0">
 			<sequence maxsamples="524288" sampleformat="131073" numsamples="144003">
 				<waveblock start="0">
